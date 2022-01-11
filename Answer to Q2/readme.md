@@ -1,6 +1,5 @@
 
 
-The answer to Q2 was created using a Jupyter Notebook.
-##Instructions
+The answer to Q2 was created using a Jupyter Notebook (Enzyme Kinetics.ipynb).
 
-1. Install Jupyter notebook
+
